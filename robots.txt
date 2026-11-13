@@ -1,0 +1,4 @@
+# Search engines are asked not to list this site via the noindex tag in index.html.
+# Crawling stays allowed so WhatsApp/LinkedIn link previews keep working.
+User-agent: *
+Allow: /

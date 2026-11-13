@@ -1,0 +1,292 @@
+{
+  "site": {
+    "url": "https://asyqinazaley.github.io/",
+    "fullName": "Nurasyqin Mohd Azaley Ismail",
+    "email": "asyqinazaley69@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/asyqinazaley",
+    "cvFile": "assets/docs/CV_Nurasyqin_Azaley.pdf",
+    "web3formsKey": "",
+    "goatcounterCode": ""
+  },
+
+  "hero": {
+    "greeting": "Hi, I’m Asyqin.",
+    "rotatingIntro": "I’m",
+    "rotating": ["a planner at heart.", "a strategist in the making.", "a programme builder.", "an Economics graduate."],
+    "tagline": "I turn ideas into plans, and plans into programmes that people remember.",
+    "photo": "assets/img/profile.webp",
+    "badge": "Graduate Trainee · UEM Edgenta"
+  },
+
+  "about": {
+    "photo": "assets/img/asean.webp",
+    "paragraphs": [
+      "I’m an Economics graduate from IIUM who loves taking an idea from a blank page all the way to delivery. Seeing a programme come together from start to end is still my favourite feeling.",
+      "Today, I’m a Graduate Trainee in the Commercial, Strategy & Growth team of UEM Edgenta’s Managing Director’s Office, working on business planning, market research and business development. Before that, I spent seven months in the Securities Commission Malaysia’s investED Leadership Programme.",
+      "At university, I led around 40 programmes, from a humanitarian mission in Aceh to community programmes across Malaysia, and learnt that a plan only matters when people believe in it and deliver it together."
+    ],
+    "facts": [
+      { "label": "Based in", "value": "Shah Alam, Selangor" },
+      { "label": "Interested in", "value": "Corporate strategy · Business development · Sustainability" },
+      { "label": "Languages", "value": "Bahasa Malaysia · English · Arabic (basic)" }
+    ]
+  },
+
+  "highlights": [
+    { "prefix": "", "number": 5000, "suffix": "+", "label": "students reached through programmes I led" },
+    { "prefix": "~", "number": 40, "suffix": "", "label": "programmes delivered as college president" },
+    { "prefix": "RM", "number": 30, "suffix": "k", "label": "raised in one month for a humanitarian mission" },
+    { "prefix": "", "number": 27, "suffix": "", "label": "countries at the UNODC Youth Forum, where I represented Malaysia" }
+  ],
+
+  "experience": [
+    {
+      "dates": "Apr 2026 – Present",
+      "role": "Graduate Trainee, Commercial, Strategy & Growth",
+      "org": "UEM Edgenta · Managing Director’s Office (Infrastructure Solutions)",
+      "type": "work",
+      "points": [
+        "Market and competitor analysis (incl. SWOT) for the 2027 Annual Operating Plan and five-year business plan",
+        "Business unit budgeting, forecasting and KPI monitoring",
+        "Board and shareholder presentation materials for the Managing Director",
+        "Expressions of Interest for new partners, including for the Saudi Arabian market",
+        "13th Malaysian Road Conference & Exhibition 2026 and 6th IRF Asia-Pacific Regional Congress"
+      ]
+    },
+    {
+      "dates": "Aug 2025 – Feb 2026",
+      "role": "investED Leadership Programme (Cohort 3)",
+      "org": "Securities Commission Malaysia · Placement at Hong Leong Investment Bank",
+      "type": "work",
+      "points": [
+        "Executed corporate actions across MYR, USD and RMB markets with 100% accuracy",
+        "Training in capital markets, sustainable finance, governance and macroeconomics"
+      ]
+    },
+    {
+      "dates": "Mar 2025 – Jul 2025",
+      "role": "Student Coordinator (Part-time)",
+      "org": "IIUM · Office of the Deputy Rector, Student Development & Community Engagement",
+      "type": "work",
+      "points": [
+        "Coordinated university-wide programmes involving 4,000+ participants",
+        "Grew the office’s social media audience by 1,000 followers"
+      ]
+    },
+    {
+      "dates": "2023 – 2026",
+      "role": "Executive",
+      "org": "Higher Education Youth Association Malaysia (HEYA)",
+      "type": "leadership",
+      "points": [
+        "National youth leadership initiatives with the Ministry of Higher Education, including the National Students Leadership Conference",
+        "Advocacy workshops for student leaders from public and private universities"
+      ]
+    },
+    {
+      "dates": "2022 – 2023",
+      "role": "President, Student Representative Committee",
+      "org": "Mahallah Sumayyah, IIUM",
+      "type": "leadership",
+      "points": [
+        "Led a 19-member committee to deliver ~40 programmes for 5,000+ students",
+        "Team recognised with a Special Mention at STEWARDS 2023"
+      ]
+    },
+    {
+      "dates": "2021 – 2024",
+      "role": "Other campus roles",
+      "org": "IIUM",
+      "type": "leadership",
+      "points": [
+        "Vice President, Sekretariat Rukun Negara UIAM (2023/24)",
+        "Secretary, Sekretariat Rakan Muda (2023/24)",
+        "Member, Welfare Secretariat, Economics and Management Sciences Society (2021/22)"
+      ]
+    },
+    {
+      "dates": "2020 – 2025",
+      "role": "Bachelor of Economics (Honours)",
+      "org": "International Islamic University Malaysia (IIUM) · incl. Foundation",
+      "type": "education",
+      "points": [
+        "Dean’s List three times"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "aceh",
+      "title": "Misi Kemanusiaan: Denyut Nadi Aceh",
+      "dates": "Feb 2023",
+      "location": "Aceh Besar, Indonesia",
+      "role": "Programme Coordinator & Financial Controller",
+      "tags": ["Humanitarian", "International"],
+      "cover": "assets/img/aceh.webp",
+      "summary": "An international humanitarian mission to improve facilities at a rural pesantren of about 500 students.",
+      "description": "At Pesantren Ar-Rabwah, more than 100 students and teachers were sharing a single bathroom. Together with Global Peace Mission Malaysia, our team planned and delivered a mission to improve the school’s facilities, especially its bathrooms, and to make the school a brighter place to learn.",
+      "results": [
+        "Raised about RM30,000 within one month",
+        "Partners: Global Peace Mission Malaysia, Pertubuhan KAB and Dana Kita",
+        "Featured on Bernama TV, in international media and in Kosmo!"
+      ],
+      "photos": ["assets/img/aceh.webp"],
+      "links": [
+        { "label": "Media coverage (PDF)", "url": "assets/docs/aceh-media-coverage.pdf" },
+        { "label": "International coverage (PDF)", "url": "assets/docs/aceh-international-coverage.pdf" },
+        { "label": "Bernama TV feature", "url": "https://www.instagram.com/reel/CrnvuGLBls8/" }
+      ]
+    },
+    {
+      "id": "baling",
+      "title": "Baling Here We Go!",
+      "dates": "13 – 15 Jan 2023",
+      "location": "Baling, Kedah",
+      "role": "Programme Coordinator",
+      "tags": ["Community", "Education"],
+      "cover": "assets/img/baling.webp",
+      "summary": "A community and education programme with the District Education Office of Baling.",
+      "description": "Organised by the Mahallah Sumayyah Representative Committee, this three-day programme took our team to Baling to work with local schools and communities, with a focus on reviving young people’s spirit to pursue knowledge.",
+      "results": [
+        "Delivered in collaboration with the District Education Office of Baling",
+        "Featured in IIUM News: “Membugar semangat generasi muda untuk menuntut ilmu”"
+      ],
+      "photos": ["assets/img/baling.webp", "assets/img/baling-crowd.webp"],
+      "links": [
+        { "label": "IIUM News article", "url": "https://news.iium.edu.my/?p=173322" },
+        { "label": "Media coverage (PDF)", "url": "assets/docs/baling-media-coverage.pdf" }
+      ]
+    },
+    {
+      "id": "unodc",
+      "title": "UNODC Youth Forum 2024",
+      "dates": "2024",
+      "location": "United Nations Office on Drugs and Crime",
+      "role": "Malaysia Representative",
+      "tags": ["International"],
+      "cover": "assets/img/unodc.webp",
+      "summary": "Represented Malaysia among 35 youth delegates from 27 countries.",
+      "description": "Selected to represent Malaysia at an international youth policy forum, contributing to discussions on evidence-based policy development and on safer, healthier environments for young people, in support of the Sustainable Development Goals.",
+      "results": [
+        "One of 35 youth delegates from 27 countries",
+        "Took part in policy-making sessions, workshops and dialogues"
+      ],
+      "photos": ["assets/img/unodc.webp", "assets/img/unodc-group.webp"],
+      "links": [
+        { "label": "Kosmo! feature (PDF)", "url": "assets/docs/kosmo-feature-2025.pdf" }
+      ]
+    },
+    {
+      "id": "isc",
+      "title": "Inter-Mahallah Sports Carnival (ISC) 2023",
+      "dates": "28 Oct – 4 Nov 2023",
+      "location": "IIUM Gombak",
+      "role": "Deputy Project Director",
+      "tags": ["Sports", "Community"],
+      "cover": "assets/img/isc.webp",
+      "summary": "A university-wide sports carnival themed “Sporting Excellence for a Sustainable Community”.",
+      "description": "ISC returned in 2023 for the first time since 2019. All 17 mahallahs competed across more than ten sports, from netball and football to frisbee and sepak takraw, with a focus on wellbeing, inclusion and community.",
+      "results": [
+        "All 17 mahallahs took part",
+        "Co-organised with the Sports Development Centre",
+        "Featured in IIUM Today"
+      ],
+      "photos": ["assets/img/isc.webp", "assets/img/isc-group.webp"],
+      "links": [
+        { "label": "IIUM Today article", "url": "https://news.iium.edu.my/?p=176224" },
+        { "label": "Article (PDF)", "url": "assets/docs/isc-2023-iium-today.pdf" }
+      ]
+    },
+    {
+      "id": "jasa",
+      "title": "JASA Mentoring Series 3: Kembara Cilik",
+      "dates": "26 – 29 Oct 2024",
+      "location": "SK Putra, Jelebu, Negeri Sembilan",
+      "role": "Financial Controller",
+      "tags": ["Education", "Community"],
+      "cover": "assets/img/jasa.webp",
+      "summary": "A mentoring programme by Jalinan Siswa Bersama Masyarakat Asli (JASA) for primary school students.",
+      "description": "Our team spent four days at SK Putra teaching soft skills through hands-on activities in leadership, teamwork and emotional intelligence, helping 36 students discover their potential.",
+      "results": [
+        "36 students mentored, with 70 participants in total",
+        "Sponsored by Salihin Future Foundation and Mulhaq"
+      ],
+      "photos": ["assets/img/jasa.webp"],
+      "links": []
+    },
+    {
+      "id": "merdeka",
+      "title": "Connect: Les Merdeka",
+      "dates": "15 Aug – 16 Sep 2024",
+      "location": "IIUM Educare & social media",
+      "role": "Financial Controller",
+      "tags": ["Community", "Education"],
+      "cover": "assets/img/merdeka.webp",
+      "summary": "A national unity programme celebrating Merdeka, online and with IIUM Educare’s young learners.",
+      "description": "Run by Sekretariat Rukun Negara UIAM with the IIUM Uniform Bodies, the programme combined a social media campaign with activities at IIUM Educare, where children sang patriotic songs and played games that built a love for the country from a young age.",
+      "results": [
+        "Almost every campaign post passed 1,000 views",
+        "100 participants at IIUM Educare",
+        "Supported by Kementerian Perpaduan Negara"
+      ],
+      "photos": ["assets/img/merdeka.webp", "assets/img/merdeka-handover.webp"],
+      "links": []
+    }
+  ],
+
+  "awards": [
+    { "title": "Top 5 Finalist, Anugerah Tokoh Siswa Negara 2025", "detail": "Tokoh Perpaduan Siswa", "level": "National" },
+    { "title": "Gold, Best Volunteer Programme Leader", "detail": "Majlis Anugerah Bakat MAPUM 2023", "level": "National" },
+    { "title": "Bronze, Best Sports Programme Leader", "detail": "Majlis Anugerah Bakat MAPUM 2023", "level": "National" },
+    { "title": "Malaysia Representative", "detail": "UNODC Youth Forum 2024", "level": "International" },
+    { "title": "Rector Award", "detail": "IIUM Student Activity Award (STEWARDS) 2024", "level": "University" },
+    { "title": "Mahallah Representative Leader Award", "detail": "STEWARDS 2024", "level": "University" },
+    { "title": "Patriotism Programme Leader Award", "detail": "STEWARDS 2024", "level": "University" },
+    { "title": "Secretariat, 15th International Conference on Islamic Economics and Finance", "detail": "Ministry of Finance & IIUM, 2024", "level": "International" }
+  ],
+
+  "gallery": [
+    { "src": "assets/img/unodc.webp", "caption": "Representing Malaysia at the UNODC Youth Forum 2024" },
+    { "src": "assets/img/unodc-group.webp", "caption": "With fellow youth delegates from 27 countries" },
+    { "src": "assets/img/asean.webp", "caption": "Among the flags of ASEAN" },
+    { "src": "assets/img/aceh.webp", "caption": "Misi Kemanusiaan: Denyut Nadi Aceh, 2023" },
+    { "src": "assets/img/baling.webp", "caption": "Baling Here We Go!, 2023" },
+    { "src": "assets/img/baling-crowd.webp", "caption": "With the community in Baling" },
+    { "src": "assets/img/isc.webp", "caption": "ISC 2023 opening" },
+    { "src": "assets/img/isc-group.webp", "caption": "ISC 2023 closing" },
+    { "src": "assets/img/truth-youth.webp", "caption": "Youth Empowerment: With Truth, For Youth" },
+    { "src": "assets/img/aquapreneur.webp", "caption": "Mahallah Sumayyah Aquapreneur project" },
+    { "src": "assets/img/iftar.webp", "caption": "Iftar Kasih Ramadan" },
+    { "src": "assets/img/team-selfie.webp", "caption": "The team behind the programmes" }
+  ],
+
+  "skills": [
+    { "group": "Strategy & Planning", "items": ["Business planning (AOP)", "Market & competitor analysis", "SWOT", "Budgeting & forecasting", "KPI monitoring", "Board materials"] },
+    { "group": "Programmes & People", "items": ["Programme management", "Stakeholder management", "Fundraising & sponsorship", "Event management", "Team leadership", "Public speaking"] },
+    { "group": "Tools", "items": ["Microsoft Excel", "Tableau", "PowerPoint", "Google Workspace", "Canva", "CapCut"] },
+    { "group": "Recent learning", "items": ["Generative AI for Business Analysts · IBM", "Foundations of Project Management · Google", "Advanced Strategies for Sustainable Business · CU Boulder", "ESG & Sustainability Fundamentals · HRD Corp", "National Investment Programme · Bursa Malaysia", "Women-Industry Network & Girls Leadership Training · TalentCorp"] }
+  ],
+
+  "currently": [
+    { "icon": "🛠️", "label": "Working on", "text": "Business planning at UEM Edgenta’s Managing Director’s Office" },
+    { "icon": "📚", "label": "Learning", "text": "Generative AI for business analysis and sustainable business strategy" },
+    { "icon": "🤝", "label": "Open to", "text": "Graduate and executive roles in strategy, planning, business development and sustainability" }
+  ],
+
+  "documents": [
+    { "title": "Curriculum Vitae", "description": "My latest CV", "file": "assets/docs/CV_Nurasyqin_Azaley.pdf", "thumb": "assets/docs/CV_Nurasyqin_Azaley-thumb.webp" },
+    { "title": "Kosmo! feature (2025)", "description": "Banyak sertai misi kemanusiaan, Nurasyqin julang nama Malaysia", "file": "assets/docs/kosmo-feature-2025.pdf", "thumb": "assets/docs/kosmo-feature-2025-thumb.webp" },
+    { "title": "Denyut Nadi Aceh: media coverage", "description": "Coverage of the Aceh humanitarian mission", "file": "assets/docs/aceh-media-coverage.pdf", "thumb": "assets/docs/aceh-media-coverage-thumb.webp" },
+    { "title": "Denyut Nadi Aceh: international coverage", "description": "Coverage in Indonesian media", "file": "assets/docs/aceh-international-coverage.pdf", "thumb": "assets/docs/aceh-international-coverage-thumb.webp" },
+    { "title": "Baling Here We Go!: media coverage", "description": "IIUM News coverage", "file": "assets/docs/baling-media-coverage.pdf", "thumb": "assets/docs/baling-media-coverage-thumb.webp" },
+    { "title": "ISC 2023 in IIUM Today", "description": "Sporting excellence for a sustainable community", "file": "assets/docs/isc-2023-iium-today.pdf", "thumb": "assets/docs/isc-2023-iium-today-thumb.webp" }
+  ],
+
+  "testimonials": [],
+
+  "contact": {
+    "heading": "Let’s connect",
+    "text": "I’m always happy to talk about strategy, planning, programmes or opportunities. The best way to reach me is by email or LinkedIn."
+  }
+}
