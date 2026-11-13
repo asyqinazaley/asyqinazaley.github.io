@@ -1,7 +1,7 @@
 # How to edit your website
 
 Everything you see on the site (text, photos, projects, awards and links) lives in **one file: `content.json`**.
-You never need to touch the code files (`index.html`, `assets/css`, `assets/js`).
+You never need to touch the code files (`index.html`, `style.css`, `main.js`).
 
 You can do all of this **in your web browser on github.com**. You don't need to install anything.
 
@@ -37,15 +37,15 @@ Paste your whole `content.json` into **https://jsonlint.com** and it will tell y
 
 ## 2. Add a new photo
 
-1. In your repository, open the folder **`assets/img`**.
+1. Go to the main page of your repository.
 2. Click **Add file → Upload files**, drag your photo in, then click **Commit changes**.
    - Tip: keep photos under ~500 KB. You can shrink them for free at **https://squoosh.app** (choose WebP).
    - Use a simple file name without spaces, e.g. `aceh-school.webp`.
-3. Use it in `content.json` as `"assets/img/aceh-school.webp"`.
+3. Use it in `content.json` as `"aceh-school.webp"`.
 
 **To add it to the Gallery**, add a line inside `"gallery"`:
 ```json
-{ "src": "assets/img/aceh-school.webp", "caption": "Short caption here" },
+{ "src": "aceh-school.webp", "caption": "Short caption here" },
 ```
 
 ---
@@ -62,11 +62,11 @@ Copy this block and paste it inside `"projects": [ ... ]`, after another project
   "location": "Kuala Lumpur",
   "role": "Your role",
   "tags": ["Community"],
-  "cover": "assets/img/your-cover.webp",
+  "cover": "your-cover.webp",
   "summary": "One sentence shown on the card.",
   "description": "Two or three sentences shown when someone opens the card.",
   "results": ["A result", "Another result"],
-  "photos": ["assets/img/your-cover.webp"],
+  "photos": ["your-cover.webp"],
   "links": [ { "label": "Article", "url": "https://..." } ]
 }
 ```
@@ -77,15 +77,15 @@ Copy this block and paste it inside `"projects": [ ... ]`, after another project
 
 ## 4. Add a document (PDF)
 
-1. Upload the PDF into **`assets/docs`** (Add file → Upload files).
-2. Add a preview image: take a screenshot of the first page, save it as WebP, and upload it to `assets/docs` too.
+1. Upload the PDF to the main page of your repository (Add file → Upload files).
+2. Add a preview image: take a screenshot of the first page, save it as WebP, and upload it too.
 3. Add a block inside `"documents"`:
 ```json
-{ "title": "Report title", "description": "One line", "file": "assets/docs/report.pdf", "thumb": "assets/docs/report-thumb.webp" },
+{ "title": "Report title", "description": "One line", "file": "report.pdf", "thumb": "report-thumb.webp" },
 ```
 ⚠️ **Privacy:** never upload certificates or reports that show your **IC number, phone number or home address**. Cover them first.
 
-**Updating your CV:** upload the new PDF to `assets/docs` with the **same name** (`CV_Nurasyqin_Azaley.pdf`). GitHub will replace the old one, and every "Download CV" button updates automatically.
+**Updating your CV:** upload the new PDF with the **same name** (`CV_Nurasyqin_Azaley.pdf`). GitHub will replace the old one, and every "Download CV" button updates automatically.
 
 ---
 

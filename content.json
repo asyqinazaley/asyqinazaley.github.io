@@ -4,7 +4,7 @@
     "fullName": "Nurasyqin Mohd Azaley Ismail",
     "email": "asyqinazaley69@gmail.com",
     "linkedin": "https://www.linkedin.com/in/asyqinazaley",
-    "cvFile": "assets/docs/CV_Nurasyqin_Azaley.pdf",
+    "cvFile": "CV_Nurasyqin_Azaley.pdf",
     "web3formsKey": "",
     "goatcounterCode": ""
   },
@@ -14,12 +14,12 @@
     "rotatingIntro": "I’m",
     "rotating": ["a planner at heart.", "a strategist in the making.", "a programme builder.", "an Economics graduate."],
     "tagline": "I turn ideas into plans, and plans into programmes that people remember.",
-    "photo": "assets/img/profile.webp",
+    "photo": "profile.webp",
     "badge": "Graduate Trainee · UEM Edgenta"
   },
 
   "about": {
-    "photo": "assets/img/asean.webp",
+    "photo": "asean.webp",
     "paragraphs": [
       "I’m an Economics graduate from IIUM who loves taking an idea from a blank page all the way to delivery. Seeing a programme come together from start to end is still my favourite feeling.",
       "Today, I’m a Graduate Trainee in the Commercial, Strategy & Growth team of UEM Edgenta’s Managing Director’s Office, working on business planning, market research and business development. Before that, I spent seven months in the Securities Commission Malaysia’s investED Leadership Programme.",
@@ -123,7 +123,7 @@
       "location": "Aceh Besar, Indonesia",
       "role": "Programme Coordinator & Financial Controller",
       "tags": ["Humanitarian", "International"],
-      "cover": "assets/img/aceh.webp",
+      "cover": "aceh.webp",
       "summary": "An international humanitarian mission to improve facilities at a rural pesantren of about 500 students.",
       "description": "At Pesantren Ar-Rabwah, more than 100 students and teachers were sharing a single bathroom. Together with Global Peace Mission Malaysia, our team planned and delivered a mission to improve the school’s facilities, especially its bathrooms, and to make the school a brighter place to learn.",
       "results": [
@@ -131,10 +131,10 @@
         "Partners: Global Peace Mission Malaysia, Pertubuhan KAB and Dana Kita",
         "Featured on Bernama TV, in international media and in Kosmo!"
       ],
-      "photos": ["assets/img/aceh.webp"],
+      "photos": ["aceh.webp"],
       "links": [
-        { "label": "Media coverage (PDF)", "url": "assets/docs/aceh-media-coverage.pdf" },
-        { "label": "International coverage (PDF)", "url": "assets/docs/aceh-international-coverage.pdf" },
+        { "label": "Media coverage (PDF)", "url": "aceh-media-coverage.pdf" },
+        { "label": "International coverage (PDF)", "url": "aceh-international-coverage.pdf" },
         { "label": "Bernama TV feature", "url": "https://www.instagram.com/reel/CrnvuGLBls8/" }
       ]
     },
@@ -145,17 +145,17 @@
       "location": "Baling, Kedah",
       "role": "Programme Coordinator",
       "tags": ["Community", "Education"],
-      "cover": "assets/img/baling.webp",
+      "cover": "baling.webp",
       "summary": "A community and education programme with the District Education Office of Baling.",
       "description": "Organised by the Mahallah Sumayyah Representative Committee, this three-day programme took our team to Baling to work with local schools and communities, with a focus on reviving young people’s spirit to pursue knowledge.",
       "results": [
         "Delivered in collaboration with the District Education Office of Baling",
         "Featured in IIUM News: “Membugar semangat generasi muda untuk menuntut ilmu”"
       ],
-      "photos": ["assets/img/baling.webp", "assets/img/baling-crowd.webp"],
+      "photos": ["baling.webp", "baling-crowd.webp"],
       "links": [
         { "label": "IIUM News article", "url": "https://news.iium.edu.my/?p=173322" },
-        { "label": "Media coverage (PDF)", "url": "assets/docs/baling-media-coverage.pdf" }
+        { "label": "Media coverage (PDF)", "url": "baling-media-coverage.pdf" }
       ]
     },
     {
@@ -165,16 +165,16 @@
       "location": "United Nations Office on Drugs and Crime",
       "role": "Malaysia Representative",
       "tags": ["International"],
-      "cover": "assets/img/unodc.webp",
+      "cover": "unodc.webp",
       "summary": "Represented Malaysia among 35 youth delegates from 27 countries.",
       "description": "Selected to represent Malaysia at an international youth policy forum, contributing to discussions on evidence-based policy development and on safer, healthier environments for young people, in support of the Sustainable Development Goals.",
       "results": [
         "One of 35 youth delegates from 27 countries",
         "Took part in policy-making sessions, workshops and dialogues"
       ],
-      "photos": ["assets/img/unodc.webp", "assets/img/unodc-group.webp"],
+      "photos": ["unodc.webp", "unodc-group.webp"],
       "links": [
-        { "label": "Kosmo! feature (PDF)", "url": "assets/docs/kosmo-feature-2025.pdf" }
+        { "label": "Kosmo! feature (PDF)", "url": "kosmo-feature-2025.pdf" }
       ]
     },
     {
@@ -184,7 +184,7 @@
       "location": "IIUM Gombak",
       "role": "Deputy Project Director",
       "tags": ["Sports", "Community"],
-      "cover": "assets/img/isc.webp",
+      "cover": "isc.webp",
       "summary": "A university-wide sports carnival themed “Sporting Excellence for a Sustainable Community”.",
       "description": "ISC returned in 2023 for the first time since 2019. All 17 mahallahs competed across more than ten sports, from netball and football to frisbee and sepak takraw, with a focus on wellbeing, inclusion and community.",
       "results": [
@@ -192,10 +192,10 @@
         "Co-organised with the Sports Development Centre",
         "Featured in IIUM Today"
       ],
-      "photos": ["assets/img/isc.webp", "assets/img/isc-group.webp"],
+      "photos": ["isc.webp", "isc-group.webp"],
       "links": [
         { "label": "IIUM Today article", "url": "https://news.iium.edu.my/?p=176224" },
-        { "label": "Article (PDF)", "url": "assets/docs/isc-2023-iium-today.pdf" }
+        { "label": "Article (PDF)", "url": "isc-2023-iium-today.pdf" }
       ]
     },
     {
@@ -205,14 +205,14 @@
       "location": "SK Putra, Jelebu, Negeri Sembilan",
       "role": "Financial Controller",
       "tags": ["Education", "Community"],
-      "cover": "assets/img/jasa.webp",
+      "cover": "jasa.webp",
       "summary": "A mentoring programme by Jalinan Siswa Bersama Masyarakat Asli (JASA) for primary school students.",
       "description": "Our team spent four days at SK Putra teaching soft skills through hands-on activities in leadership, teamwork and emotional intelligence, helping 36 students discover their potential.",
       "results": [
         "36 students mentored, with 70 participants in total",
         "Sponsored by Salihin Future Foundation and Mulhaq"
       ],
-      "photos": ["assets/img/jasa.webp"],
+      "photos": ["jasa.webp"],
       "links": []
     },
     {
@@ -222,7 +222,7 @@
       "location": "IIUM Educare & social media",
       "role": "Financial Controller",
       "tags": ["Community", "Education"],
-      "cover": "assets/img/merdeka.webp",
+      "cover": "merdeka.webp",
       "summary": "A national unity programme celebrating Merdeka, online and with IIUM Educare’s young learners.",
       "description": "Run by Sekretariat Rukun Negara UIAM with the IIUM Uniform Bodies, the programme combined a social media campaign with activities at IIUM Educare, where children sang patriotic songs and played games that built a love for the country from a young age.",
       "results": [
@@ -230,7 +230,7 @@
         "100 participants at IIUM Educare",
         "Supported by Kementerian Perpaduan Negara"
       ],
-      "photos": ["assets/img/merdeka.webp", "assets/img/merdeka-handover.webp"],
+      "photos": ["merdeka.webp", "merdeka-handover.webp"],
       "links": []
     }
   ],
@@ -247,18 +247,18 @@
   ],
 
   "gallery": [
-    { "src": "assets/img/unodc.webp", "caption": "Representing Malaysia at the UNODC Youth Forum 2024" },
-    { "src": "assets/img/unodc-group.webp", "caption": "With fellow youth delegates from 27 countries" },
-    { "src": "assets/img/asean.webp", "caption": "Among the flags of ASEAN" },
-    { "src": "assets/img/aceh.webp", "caption": "Misi Kemanusiaan: Denyut Nadi Aceh, 2023" },
-    { "src": "assets/img/baling.webp", "caption": "Baling Here We Go!, 2023" },
-    { "src": "assets/img/baling-crowd.webp", "caption": "With the community in Baling" },
-    { "src": "assets/img/isc.webp", "caption": "ISC 2023 opening" },
-    { "src": "assets/img/isc-group.webp", "caption": "ISC 2023 closing" },
-    { "src": "assets/img/truth-youth.webp", "caption": "Youth Empowerment: With Truth, For Youth" },
-    { "src": "assets/img/aquapreneur.webp", "caption": "Mahallah Sumayyah Aquapreneur project" },
-    { "src": "assets/img/iftar.webp", "caption": "Iftar Kasih Ramadan" },
-    { "src": "assets/img/team-selfie.webp", "caption": "The team behind the programmes" }
+    { "src": "unodc.webp", "caption": "Representing Malaysia at the UNODC Youth Forum 2024" },
+    { "src": "unodc-group.webp", "caption": "With fellow youth delegates from 27 countries" },
+    { "src": "asean.webp", "caption": "Among the flags of ASEAN" },
+    { "src": "aceh.webp", "caption": "Misi Kemanusiaan: Denyut Nadi Aceh, 2023" },
+    { "src": "baling.webp", "caption": "Baling Here We Go!, 2023" },
+    { "src": "baling-crowd.webp", "caption": "With the community in Baling" },
+    { "src": "isc.webp", "caption": "ISC 2023 opening" },
+    { "src": "isc-group.webp", "caption": "ISC 2023 closing" },
+    { "src": "truth-youth.webp", "caption": "Youth Empowerment: With Truth, For Youth" },
+    { "src": "aquapreneur.webp", "caption": "Mahallah Sumayyah Aquapreneur project" },
+    { "src": "iftar.webp", "caption": "Iftar Kasih Ramadan" },
+    { "src": "team-selfie.webp", "caption": "The team behind the programmes" }
   ],
 
   "skills": [
@@ -275,12 +275,12 @@
   ],
 
   "documents": [
-    { "title": "Curriculum Vitae", "description": "My latest CV", "file": "assets/docs/CV_Nurasyqin_Azaley.pdf", "thumb": "assets/docs/CV_Nurasyqin_Azaley-thumb.webp" },
-    { "title": "Kosmo! feature (2025)", "description": "Banyak sertai misi kemanusiaan, Nurasyqin julang nama Malaysia", "file": "assets/docs/kosmo-feature-2025.pdf", "thumb": "assets/docs/kosmo-feature-2025-thumb.webp" },
-    { "title": "Denyut Nadi Aceh: media coverage", "description": "Coverage of the Aceh humanitarian mission", "file": "assets/docs/aceh-media-coverage.pdf", "thumb": "assets/docs/aceh-media-coverage-thumb.webp" },
-    { "title": "Denyut Nadi Aceh: international coverage", "description": "Coverage in Indonesian media", "file": "assets/docs/aceh-international-coverage.pdf", "thumb": "assets/docs/aceh-international-coverage-thumb.webp" },
-    { "title": "Baling Here We Go!: media coverage", "description": "IIUM News coverage", "file": "assets/docs/baling-media-coverage.pdf", "thumb": "assets/docs/baling-media-coverage-thumb.webp" },
-    { "title": "ISC 2023 in IIUM Today", "description": "Sporting excellence for a sustainable community", "file": "assets/docs/isc-2023-iium-today.pdf", "thumb": "assets/docs/isc-2023-iium-today-thumb.webp" }
+    { "title": "Curriculum Vitae", "description": "My latest CV", "file": "CV_Nurasyqin_Azaley.pdf", "thumb": "CV_Nurasyqin_Azaley-thumb.webp" },
+    { "title": "Kosmo! feature (2025)", "description": "Banyak sertai misi kemanusiaan, Nurasyqin julang nama Malaysia", "file": "kosmo-feature-2025.pdf", "thumb": "kosmo-feature-2025-thumb.webp" },
+    { "title": "Denyut Nadi Aceh: media coverage", "description": "Coverage of the Aceh humanitarian mission", "file": "aceh-media-coverage.pdf", "thumb": "aceh-media-coverage-thumb.webp" },
+    { "title": "Denyut Nadi Aceh: international coverage", "description": "Coverage in Indonesian media", "file": "aceh-international-coverage.pdf", "thumb": "aceh-international-coverage-thumb.webp" },
+    { "title": "Baling Here We Go!: media coverage", "description": "IIUM News coverage", "file": "baling-media-coverage.pdf", "thumb": "baling-media-coverage-thumb.webp" },
+    { "title": "ISC 2023 in IIUM Today", "description": "Sporting excellence for a sustainable community", "file": "isc-2023-iium-today.pdf", "thumb": "isc-2023-iium-today-thumb.webp" }
   ],
 
   "testimonials": [],

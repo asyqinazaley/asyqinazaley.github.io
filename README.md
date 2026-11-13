@@ -10,9 +10,9 @@ A fast, free, static website. Plain HTML, CSS and JavaScript: no database, no su
 content.json        ← ALL your text, projects, awards, links (edit this)
 index.html          ← page layout (no need to edit)
 404.html            ← "page not found" page
-assets/img/         ← photos (WebP)
-assets/docs/        ← PDFs + preview images
-assets/css, js, fonts  ← design and behaviour (no need to edit)
+*.webp, *.jpg      ← photos
+*.pdf              ← documents (+ -thumb.webp previews)
+style.css, main.js ← design and behaviour (no need to edit)
 ```
 
 ## First-time deployment on GitHub Pages (about 10 minutes)
